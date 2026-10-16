@@ -121,6 +121,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [DuckDB](https://duckdb.org/) – In-process analytical SQL database.
 - [BigQuery](https://cloud.google.com/bigquery) – Serverless data warehouse on GCP.
 - [Snowflake](https://www.snowflake.com/) – Cloud-native data warehouse platform.
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) – Cross-platform database manager for querying and editing data across SQL and NoSQL engines.
 
 ## MLOps & Production
 
